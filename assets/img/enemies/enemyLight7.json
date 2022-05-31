@@ -1,0 +1,252 @@
+{"frames": {
+
+"enemyLight7_ATTACK_000.png":
+{
+	"frame": {"x":259,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_ATTACK_001.png":
+{
+	"frame": {"x":290,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_ATTACK_002.png":
+{
+	"frame": {"x":321,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_ATTACK_003.png":
+{
+	"frame": {"x":724,"y":1,"w":28,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":28,"h":35},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_ATTACK_004.png":
+{
+	"frame": {"x":754,"y":1,"w":28,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":28,"h":35},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_ATTACK_005.png":
+{
+	"frame": {"x":784,"y":1,"w":28,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":6,"w":28,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_ATTACK_006.png":
+{
+	"frame": {"x":352,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_ATTACK_007.png":
+{
+	"frame": {"x":383,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_ATTACK_008.png":
+{
+	"frame": {"x":414,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_ATTACK_009.png":
+{
+	"frame": {"x":445,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_DIE_000.png":
+{
+	"frame": {"x":476,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_DIE_001.png":
+{
+	"frame": {"x":166,"y":1,"w":29,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":5,"w":29,"h":35},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_DIE_002.png":
+{
+	"frame": {"x":197,"y":1,"w":29,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":5,"w":29,"h":35},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_DIE_003.png":
+{
+	"frame": {"x":70,"y":1,"w":30,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":30,"h":35},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_DIE_004.png":
+{
+	"frame": {"x":102,"y":1,"w":30,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":30,"h":35},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_DIE_005.png":
+{
+	"frame": {"x":228,"y":1,"w":29,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":5,"w":29,"h":35},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_DIE_006.png":
+{
+	"frame": {"x":873,"y":1,"w":26,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":5,"w":26,"h":35},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_DIE_007.png":
+{
+	"frame": {"x":844,"y":1,"w":27,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":6,"w":27,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_DIE_008.png":
+{
+	"frame": {"x":37,"y":1,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":9,"w":31,"h":32},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_DIE_009.png":
+{
+	"frame": {"x":1,"y":1,"w":34,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":13,"w":34,"h":28},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_WALK_000.png":
+{
+	"frame": {"x":134,"y":1,"w":30,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":6,"w":30,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_WALK_001.png":
+{
+	"frame": {"x":507,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_WALK_002.png":
+{
+	"frame": {"x":538,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_WALK_003.png":
+{
+	"frame": {"x":569,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_WALK_004.png":
+{
+	"frame": {"x":600,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_WALK_005.png":
+{
+	"frame": {"x":901,"y":1,"w":26,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":6,"w":26,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_WALK_006.png":
+{
+	"frame": {"x":814,"y":1,"w":28,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":28,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_WALK_007.png":
+{
+	"frame": {"x":631,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_WALK_008.png":
+{
+	"frame": {"x":662,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+},
+"enemyLight7_WALK_009.png":
+{
+	"frame": {"x":693,"y":1,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":29,"h":34},
+	"sourceSize": {"w":51,"h":41}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "enemyLight7.png",
+	"format": "RGBA8888",
+	"size": {"w":928,"h":37},
+	"scale": "0.2",
+	"smartupdate": "$TexturePacker:SmartUpdate:02ad975ef0a1404367954c3504a9dfdd:4fe730e8a4a54f03f443e159ddc86887:66aa6c06de17462f0a6ddd8a069a130a$"
+}
+}

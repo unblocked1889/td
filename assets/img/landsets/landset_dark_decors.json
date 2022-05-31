@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "decor_1.png",
+	"frame": {"x":105,"y":102,"w":85,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":83},
+	"sourceSize": {"w":85,"h":83}
+},
+{
+	"filename": "decor_2.png",
+	"frame": {"x":105,"y":1,"w":66,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":99},
+	"sourceSize": {"w":66,"h":99}
+},
+{
+	"filename": "decor_3.png",
+	"frame": {"x":1,"y":1,"w":102,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":132},
+	"sourceSize": {"w":102,"h":132}
+},
+{
+	"filename": "decor_4.png",
+	"frame": {"x":1,"y":135,"w":90,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":53},
+	"sourceSize": {"w":90,"h":53}
+},
+{
+	"filename": "decor_5.png",
+	"frame": {"x":173,"y":55,"w":58,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":38},
+	"sourceSize": {"w":58,"h":38}
+},
+{
+	"filename": "decor_6.png",
+	"frame": {"x":179,"y":187,"w":58,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":38},
+	"sourceSize": {"w":58,"h":38}
+},
+{
+	"filename": "decor_7.png",
+	"frame": {"x":1,"y":190,"w":58,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":38},
+	"sourceSize": {"w":58,"h":38}
+},
+{
+	"filename": "decor_8.png",
+	"frame": {"x":192,"y":95,"w":58,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":38},
+	"sourceSize": {"w":58,"h":38}
+},
+{
+	"filename": "dot.png",
+	"frame": {"x":93,"y":187,"w":84,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":44},
+	"sourceSize": {"w":84,"h":44}
+},
+{
+	"filename": "stone.png",
+	"frame": {"x":173,"y":1,"w":79,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":52},
+	"sourceSize": {"w":79,"h":52}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "landset_dark_decors.png",
+	"format": "RGBA8888",
+	"size": {"w":253,"h":232},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d9f0eddf2809360c8ec61503f8d663c7:f09a1a9eb63aae32ef0068351ecb7887:7d4eaa013da73b2a0e8adb1141533aff$"
+}
+}

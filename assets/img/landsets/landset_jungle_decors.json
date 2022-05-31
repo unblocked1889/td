@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "bush_1.png",
+	"frame": {"x":327,"y":140,"w":55,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":40},
+	"sourceSize": {"w":55,"h":40}
+},
+{
+	"filename": "bush_2.png",
+	"frame": {"x":250,"y":218,"w":31,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28}
+},
+{
+	"filename": "bush_3.png",
+	"frame": {"x":230,"y":140,"w":13,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":9},
+	"sourceSize": {"w":13,"h":9}
+},
+{
+	"filename": "decor_1.png",
+	"frame": {"x":1,"y":1,"w":211,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":149},
+	"sourceSize": {"w":211,"h":149}
+},
+{
+	"filename": "decor_2.png",
+	"frame": {"x":270,"y":153,"w":55,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":55},
+	"sourceSize": {"w":55,"h":55}
+},
+{
+	"filename": "decor_3.png",
+	"frame": {"x":250,"y":153,"w":18,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":63},
+	"sourceSize": {"w":18,"h":63}
+},
+{
+	"filename": "decor_4.png",
+	"frame": {"x":214,"y":140,"w":14,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":10},
+	"sourceSize": {"w":14,"h":10}
+},
+{
+	"filename": "decor_5.png",
+	"frame": {"x":214,"y":125,"w":12,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":11},
+	"sourceSize": {"w":12,"h":11}
+},
+{
+	"filename": "dot.png",
+	"frame": {"x":299,"y":96,"w":84,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":42},
+	"sourceSize": {"w":84,"h":42}
+},
+{
+	"filename": "lake.png",
+	"frame": {"x":1,"y":152,"w":247,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":247,"h":95},
+	"sourceSize": {"w":247,"h":95}
+},
+{
+	"filename": "stone.png",
+	"frame": {"x":250,"y":125,"w":44,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":26},
+	"sourceSize": {"w":44,"h":26}
+},
+{
+	"filename": "tree_1.png",
+	"frame": {"x":214,"y":1,"w":83,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":122},
+	"sourceSize": {"w":83,"h":122}
+},
+{
+	"filename": "tree_2.png",
+	"frame": {"x":299,"y":1,"w":92,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":93},
+	"sourceSize": {"w":92,"h":93}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "landset_jungle_decors.png",
+	"format": "RGBA8888",
+	"size": {"w":392,"h":248},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e8023387e0d481a64db9e6209cecc11e:bb3567bdc3eff74cd7cbecb727faa6e0:31a37e4e2a82c0d2d368e7c5a5a6fa45$"
+}
+}

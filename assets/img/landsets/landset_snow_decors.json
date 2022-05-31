@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "decor_1.png",
+	"frame": {"x":1,"y":135,"w":66,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":99},
+	"sourceSize": {"w":66,"h":99}
+},
+{
+	"filename": "decor_2.png",
+	"frame": {"x":1,"y":1,"w":102,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":132},
+	"sourceSize": {"w":102,"h":132}
+},
+{
+	"filename": "decor_3.png",
+	"frame": {"x":1,"y":236,"w":99,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":95},
+	"sourceSize": {"w":99,"h":95}
+},
+{
+	"filename": "dot.png",
+	"frame": {"x":1,"y":333,"w":84,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":41},
+	"sourceSize": {"w":84,"h":41}
+},
+{
+	"filename": "stone.png",
+	"frame": {"x":69,"y":209,"w":38,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":23},
+	"sourceSize": {"w":38,"h":23}
+},
+{
+	"filename": "tree.png",
+	"frame": {"x":69,"y":135,"w":45,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":72},
+	"sourceSize": {"w":45,"h":72}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "landset_snow_decors.png",
+	"format": "RGBA8888",
+	"size": {"w":115,"h":375},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:353f2de32d4b0e25768796355d25fc22:f7d02f94f23fe673b5dbd903c51b2ac6:cf82e18c89a4c2f017a6c6e082798b8e$"
+}
+}

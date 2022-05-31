@@ -1,0 +1,244 @@
+{"frames": [
+
+{
+	"filename": "bush_1.png",
+	"frame": {"x":383,"y":190,"w":45,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":43},
+	"sourceSize": {"w":45,"h":43}
+},
+{
+	"filename": "bush_2.png",
+	"frame": {"x":404,"y":338,"w":22,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":18},
+	"sourceSize": {"w":22,"h":18}
+},
+{
+	"filename": "bush_3.png",
+	"frame": {"x":404,"y":315,"w":25,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":21},
+	"sourceSize": {"w":25,"h":21}
+},
+{
+	"filename": "bush_4.png",
+	"frame": {"x":412,"y":476,"w":17,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
+	"sourceSize": {"w":17,"h":17}
+},
+{
+	"filename": "bush_5.png",
+	"frame": {"x":273,"y":482,"w":16,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":14},
+	"sourceSize": {"w":16,"h":14}
+},
+{
+	"filename": "decor_1.png",
+	"frame": {"x":164,"y":266,"w":100,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":76},
+	"sourceSize": {"w":100,"h":76}
+},
+{
+	"filename": "decor_2.png",
+	"frame": {"x":1,"y":373,"w":150,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":123},
+	"sourceSize": {"w":150,"h":123}
+},
+{
+	"filename": "decor_3.png",
+	"frame": {"x":397,"y":35,"w":21,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":77},
+	"sourceSize": {"w":21,"h":77}
+},
+{
+	"filename": "decor_4.png",
+	"frame": {"x":240,"y":482,"w":31,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":14},
+	"sourceSize": {"w":31,"h":14}
+},
+{
+	"filename": "decor_5.png",
+	"frame": {"x":391,"y":442,"w":40,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":32},
+	"sourceSize": {"w":40,"h":32}
+},
+{
+	"filename": "decor_6.png",
+	"frame": {"x":397,"y":114,"w":32,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":34},
+	"sourceSize": {"w":32,"h":34}
+},
+{
+	"filename": "decor_7.png",
+	"frame": {"x":397,"y":173,"w":20,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":15},
+	"sourceSize": {"w":20,"h":15}
+},
+{
+	"filename": "decor_8.png",
+	"frame": {"x":391,"y":476,"w":19,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":20},
+	"sourceSize": {"w":19,"h":20}
+},
+{
+	"filename": "decor_9.png",
+	"frame": {"x":404,"y":287,"w":26,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":26},
+	"sourceSize": {"w":26,"h":26}
+},
+{
+	"filename": "decor_10.png",
+	"frame": {"x":1,"y":190,"w":161,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":161,"h":181},
+	"sourceSize": {"w":168,"h":198}
+},
+{
+	"filename": "decor_11.png",
+	"frame": {"x":1,"y":1,"w":394,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":394,"h":187},
+	"sourceSize": {"w":411,"h":207}
+},
+{
+	"filename": "decor_12.png",
+	"frame": {"x":164,"y":344,"w":44,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":25},
+	"sourceSize": {"w":44,"h":25}
+},
+{
+	"filename": "dot.png",
+	"frame": {"x":313,"y":393,"w":96,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":47},
+	"sourceSize": {"w":96,"h":47}
+},
+{
+	"filename": "lake.png",
+	"frame": {"x":164,"y":190,"w":217,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":217,"h":74},
+	"sourceSize": {"w":217,"h":74}
+},
+{
+	"filename": "stone_1.png",
+	"frame": {"x":397,"y":150,"w":27,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":21},
+	"sourceSize": {"w":27,"h":21}
+},
+{
+	"filename": "stone_2.png",
+	"frame": {"x":397,"y":1,"w":36,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":32},
+	"sourceSize": {"w":36,"h":32}
+},
+{
+	"filename": "stone_3.png",
+	"frame": {"x":404,"y":262,"w":29,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":23},
+	"sourceSize": {"w":29,"h":23}
+},
+{
+	"filename": "stone_4.png",
+	"frame": {"x":240,"y":392,"w":71,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":88},
+	"sourceSize": {"w":71,"h":88}
+},
+{
+	"filename": "stone_5.png",
+	"frame": {"x":313,"y":442,"w":76,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":48},
+	"sourceSize": {"w":76,"h":48}
+},
+{
+	"filename": "stone_7.png",
+	"frame": {"x":210,"y":344,"w":38,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":23},
+	"sourceSize": {"w":38,"h":23}
+},
+{
+	"filename": "stone_8.png",
+	"frame": {"x":383,"y":235,"w":34,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":25},
+	"sourceSize": {"w":34,"h":25}
+},
+{
+	"filename": "tree_1.png",
+	"frame": {"x":153,"y":373,"w":85,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":123},
+	"sourceSize": {"w":85,"h":123}
+},
+{
+	"filename": "tree_2.png",
+	"frame": {"x":343,"y":266,"w":59,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":125},
+	"sourceSize": {"w":59,"h":125}
+},
+{
+	"filename": "tree_3.png",
+	"frame": {"x":266,"y":266,"w":75,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":124},
+	"sourceSize": {"w":75,"h":124}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "landset_hills_decors.png",
+	"format": "RGBA8888",
+	"size": {"w":434,"h":497},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a5fa0cb7004cee07300e4290ce54f42c:d99caee4beb53872c9b19e77ae0945f7:f00c6fce81d6645d6b41d24ace4492dd$"
+}
+}

@@ -1,0 +1,164 @@
+{"frames": [
+
+{
+	"filename": "decor_1.png",
+	"frame": {"x":1,"y":157,"w":202,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":260},
+	"sourceSize": {"w":202,"h":260}
+},
+{
+	"filename": "decor_2.png",
+	"frame": {"x":205,"y":157,"w":124,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":169},
+	"sourceSize": {"w":124,"h":169}
+},
+{
+	"filename": "decor_3.png",
+	"frame": {"x":608,"y":47,"w":32,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":21},
+	"sourceSize": {"w":32,"h":21}
+},
+{
+	"filename": "decor_4.png",
+	"frame": {"x":588,"y":261,"w":59,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":48},
+	"sourceSize": {"w":59,"h":48}
+},
+{
+	"filename": "decor_5.png",
+	"frame": {"x":558,"y":392,"w":46,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":33},
+	"sourceSize": {"w":46,"h":33}
+},
+{
+	"filename": "decor_6.png",
+	"frame": {"x":500,"y":306,"w":59,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":44},
+	"sourceSize": {"w":59,"h":44}
+},
+{
+	"filename": "decor_7.png",
+	"frame": {"x":205,"y":328,"w":78,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":71},
+	"sourceSize": {"w":78,"h":71}
+},
+{
+	"filename": "dot.png",
+	"frame": {"x":500,"y":261,"w":86,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":43},
+	"sourceSize": {"w":86,"h":43}
+},
+{
+	"filename": "lake_1.png",
+	"frame": {"x":331,"y":157,"w":316,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":102},
+	"sourceSize": {"w":316,"h":102}
+},
+{
+	"filename": "lake_2.png",
+	"frame": {"x":331,"y":261,"w":167,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":164},
+	"sourceSize": {"w":167,"h":164}
+},
+{
+	"filename": "lake_3.png",
+	"frame": {"x":1,"y":1,"w":605,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":154},
+	"sourceSize": {"w":605,"h":154}
+},
+{
+	"filename": "stone_1.png",
+	"frame": {"x":285,"y":328,"w":41,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":47},
+	"sourceSize": {"w":41,"h":47}
+},
+{
+	"filename": "stone_2.png",
+	"frame": {"x":500,"y":352,"w":56,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":61},
+	"sourceSize": {"w":56,"h":61}
+},
+{
+	"filename": "stone_3.png",
+	"frame": {"x":561,"y":311,"w":53,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":33},
+	"sourceSize": {"w":53,"h":33}
+},
+{
+	"filename": "stone_4.png",
+	"frame": {"x":608,"y":97,"w":21,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":20},
+	"sourceSize": {"w":21,"h":20}
+},
+{
+	"filename": "stone_5.png",
+	"frame": {"x":608,"y":70,"w":26,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":25},
+	"sourceSize": {"w":26,"h":25}
+},
+{
+	"filename": "stone_6.png",
+	"frame": {"x":636,"y":70,"w":10,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":9},
+	"sourceSize": {"w":10,"h":9}
+},
+{
+	"filename": "stone_7.png",
+	"frame": {"x":608,"y":1,"w":35,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":44},
+	"sourceSize": {"w":35,"h":44}
+},
+{
+	"filename": "stone_8.png",
+	"frame": {"x":558,"y":352,"w":47,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":38},
+	"sourceSize": {"w":47,"h":38}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "landset_lava_decors.png",
+	"format": "RGBA8888",
+	"size": {"w":648,"h":426},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e9d489c0bfc5f6de4cc6bbb46ac108f6:7e6eb330b0067d58c2423a1ada14f684:c7c42d2240b3a8ff42d3171bb7fe87e1$"
+}
+}
